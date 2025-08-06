@@ -17,9 +17,12 @@ This repository contains my submission for the UI/UX Designer screening task at 
 - **Mobile**: 390×1524 px  Responsive layout optimized for smaller screens
 
  Folder Structure
- Here i attached files, 
+ Here i attached files,
+ 
  Desktop - section 1, section 2 section 3(files name frame sections 1,2,3,)
+ 
  Tablet - section 1, section 2 section 3(files name Tablet sections 1,2,3,)
+ 
  Mobile - section 1, section 2 section 3(files name Mobile sections 1, 2, 2,)
 
 ## 🔗 Figma Link
