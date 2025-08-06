@@ -19,7 +19,7 @@ This repository contains my submission for the UI/UX Designer screening task at 
  Folder Structure
 
 ## 🔗 Figma Link
-[View the Figma file]([https://www.figma.com/file/your-link-here](https://www.figma.com/design/be9dK6ThkR2Jdtd1KyoTfo/Untitled?node-id=0-1&t=50UHWky2y0juaPcv-1))
+[View the Figma file]  https://www.figma.com/design/be9dK6ThkR2Jdtd1KyoTfo/Untitled?node-id=0-930&t=50UHWky2y0juaPcv-1
 
  Design Approach
 - **Visual Hierarchy**: Ensured clear structure and emphasis on key content.
